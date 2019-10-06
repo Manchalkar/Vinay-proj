@@ -1,0 +1,11 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(6, 3fr);
+    grid-auto-rows: 200px;
+    column-gap: 10px;
+    row-gap:1em;
+  }
+.display-div{
+   
+    border:2px solid black;
+}
